@@ -10,6 +10,7 @@ UPPRECASE
 Bad text browser
 
 ## Картинки
-Это яблоко
+Это яблоко. This is apple.
+
 ![Это яблоко](jabloko.jpg)
 
