@@ -4,3 +4,5 @@
 Add eng text local.
 
 Добавил текст через браузер. Add eng text in browser
+
+Bad text browser
